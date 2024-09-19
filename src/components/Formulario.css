@@ -1,0 +1,14 @@
+.formulario {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  label {
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  
+  select {
+    padding: 8px;
+    font-size: 16px;
+  }
